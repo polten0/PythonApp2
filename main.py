@@ -1,7 +1,2 @@
-a = input()
-b = input()
-c = input()
-
-print(c)
-print(b)
-print(a)
+name = input()
+print('Привет', name, sep=', ', end='!')
